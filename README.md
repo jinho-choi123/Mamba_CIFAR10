@@ -8,4 +8,4 @@ You can find the Mamba Model in the following repository: [Mamba Model](https://
 ## Getting Started in Colab
 You can run this code in Google Colab by clicking the colab button below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jinho-choi123/Mamba_CIFAR10/blob/main/main.ipynb)
